@@ -11,4 +11,5 @@ Pod::Spec.new do |s|
   s.source_files = 'ModuleBCategory/Classes/*.{h,m}'
   s.requires_arc = true
 
+  s.dependency 'CTMediator'
 end
