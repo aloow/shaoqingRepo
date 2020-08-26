@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'MGJRouter', '~>0.9.0'
+   s.dependency 'MGJRouter', '~>0.10.0'
    s.dependency 'Masonry','~> 1.1.0'
    
    s.requires_arc = true
